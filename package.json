@@ -1,19 +1,18 @@
 {
-  "name": "styleguide-javascript",
+  "name": "javascript-styleguide",
   "version": "0.11.0",
-  "description": "The Arctic Ice Studio JavaScript code style",
+  "description": "A guide with code snippets and definitions for javascript styleguide",
   "author": "Arctic Ice Studio <development@arcticicestudio.com> (https://www.arcticicestudio.com)",
   "contributors": [
     {
-      "name": "Sven Greb",
-      "email": "development@svengreb.de",
-      "url": "https://www.svengreb.de"
+      "name": "uvacoder",
+      "url": "https://abc-mylinks.vercel.app"
     }
   ],
-  "homepage": "https://arcticicestudio.github.io/styleguide-javascript",
+  "homepage": "https://uvacoder.github.io/javascript-styleguide/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arcticicestudio/styleguide-javascript.git"
+    "url": "git+https://github.com/uvacoder/javascript-styleguide.git"
   },
   "bugs": {
     "url": "https://github.com/arcticicestudio/styleguide-javascript/issues"
